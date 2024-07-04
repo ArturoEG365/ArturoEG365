@@ -1,17 +1,33 @@
-### Hola, Soy ArturoEG 👋
-#### Principios solid
-#### Arquitecturas Hexagonales 
-<!--
-**ArturoEG365/ArturoEG365** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+¡Bienvenido a mi portafolio de desarrollo backend! Aquí encontrarás proyectos y ejemplos de mi trabajo utilizando diversas tecnologías y herramientas que manejo.
 
-Here are some ideas to get you started:
+## Acerca de Mí
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Soy un desarrollador backend apasionado con experiencia en diversos lenguajes y frameworks. Me encanta crear soluciones eficientes y escalables, aplicando los principios de diseño y las mejores prácticas en mis proyectos.
+
+## Habilidades Técnicas
+
+### Lenguajes de Programación (BackEnd)
+- Java (Spring Boot)
+- PHP
+
+### Bases de Datos
+- SQL Server
+- MySQL
+- MongoDB
+
+### Frameworks y Tecnologías
+- Spring Boot
+- Laravel (para PHP)
+- Hibernate (para Java)
+- Express.js (para Node.js)
+
+### Principios y Patrones de Diseño
+- SOLID
+- Modelo MVC
+- API REST
+
+### Herramientas y Plataformas
+- Git
+- Docker
+- Postman
+- JIRA
