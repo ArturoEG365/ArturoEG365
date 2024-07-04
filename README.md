@@ -1,5 +1,6 @@
 ### Hola, Soy ArturoEG 👋
-
+##Principios solid
+##Arquitecturas Hexagonales 
 <!--
 **ArturoEG365/ArturoEG365** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
